@@ -1,0 +1,25 @@
+/* container part one start */
+/* .container{
+    display: flex;
+} */
+.box-1{
+    width: 250px;
+    height: 250px;
+    background-color:palevioletred;
+ }
+ .box-2{
+    width: 150px;
+    height: 150px;
+    background-color:sandybrown;
+ }
+ .box-3{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(177, 119, 230);
+ }
+ .box-4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(148, 157, 167);
+ }
+ /* container part one end */

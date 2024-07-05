@@ -1,0 +1,15 @@
+.style{
+    background-color: blue;
+    color: white;
+}
+.ififSmartphone{
+    background-image: url(/images/Food1.jpg);
+    /* background-image: url(/images/Food2.jpg); */
+}
+@media screen and (max-width:767px) {
+    .ifSmartphone{
+        background-image: url(/images/Food1.jpg);
+        /* background-image: url(/images/Food2.jpg); */
+    }
+    
+}

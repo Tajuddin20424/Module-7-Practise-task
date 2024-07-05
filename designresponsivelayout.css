@@ -1,0 +1,19 @@
+
+@media screen and (max-width:567px) {
+    .image-container{
+        flex-direction: column-reverse;
+
+    }
+    
+}
+.ififSmartphone{
+    background-image: url(/images/House1.jpg);
+    /* background-image: url(/images/House2.jpg); */
+}
+@media screen and (max-width:767px) {
+    .ifSmartphone{
+        background-image: url(/images/House1.jpg);
+        /* background-image: url(/images/House2.jpg); */
+    }
+    
+}
